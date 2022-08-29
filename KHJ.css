@@ -137,6 +137,8 @@ h4{
 
 .about-me__content{
     display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 
