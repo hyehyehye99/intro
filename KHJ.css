@@ -121,7 +121,7 @@
 
 .warp{
     margin-top: 300px;
-    padding: 50px 350px;
+    padding: 50px 50px;
 }
 
 h1{
@@ -188,13 +188,14 @@ h4{
     display: flex;
     align-items: center;
     flex-direction: column;
+    margin-right: 20px;
 }
 .about-me__info-warp{
     display: flex;
     justify-content: space-between;
-    padding-top: 20px;
     border-top: 1px solid rgb(228, 228, 228);
     margin-bottom: 50px;
+    padding:20px 300px;
 }
 
 h3{
@@ -208,7 +209,7 @@ h3{
 .plan-box{
     border: 1px solid gray;
     border-radius: 20px;
-    width: 40%;
+    width: 300px;
     height: 300px;
     padding:20px;
     display: flex;
@@ -295,7 +296,7 @@ h2{
 }
 
 .coding-img-second{
-    width: 40%;
+    width: 1000px;
 }
 
 .my-work-coding__recap{
@@ -309,7 +310,7 @@ h2{
 }
 
 .design-img img{
-    width: 100%;
+    width: 800px;
     margin-bottom: 20px;
 }
 .design-content{
@@ -353,7 +354,6 @@ h2{
 .process-warp a{
     background-color: #F9DA44;
     padding: 20px;
-    width: 30%;
     border-radius: 15px;
     color: black;
 }
