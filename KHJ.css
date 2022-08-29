@@ -1,5 +1,5 @@
 .body{
-    width: 100%;
+    
     font-family: 'IBM Plex Sans KR', sans-serif;
     color:#2f363e;
 }
@@ -135,8 +135,15 @@ h4{
     opacity: 70%;
 }
 
+.about-me{
+    display: flex;
+    flex-direction: column;
+}
+
 .about-me__content{
     display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
